@@ -44,6 +44,4 @@ Our upcoming API release will allow you to effortlessly sync your inventory and 
 
 ## Contact
 
--   [Twitter](https://twitter.com/zakarialabib)
--   [LinkedIn](https://www.linkedin.com/in/zakaria-labib/)
--   [GitHub](https://www.github.com/zakarialabib/)
+-   [GitHub](https://www.github.com/maak-2904/)
